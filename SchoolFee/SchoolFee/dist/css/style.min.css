@@ -43,3 +43,7 @@
 .bg-info {
     background-color: #c43552!important;
 }
+
+.container-fluid {
+    padding: 40px 20px 20px !important;
+}
