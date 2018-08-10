@@ -241,6 +241,5 @@ D:\WebSites\Github\FeeManagement\SchoolFee\SchoolFee\bin\Microsoft.Owin.Security
 D:\WebSites\Github\FeeManagement\SchoolFee\SchoolFee\bin\Microsoft.Owin.Security.Google.xml
 D:\WebSites\Github\FeeManagement\SchoolFee\SchoolFee\bin\Microsoft.Owin.Security.Twitter.xml
 D:\WebSites\Github\FeeManagement\SchoolFee\SchoolFee\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\WebSites\Github\FeeManagement\SchoolFee\SchoolFee\obj\Debug\SchoolFee.csprojResolveAssemblyReference.cache
 D:\WebSites\Github\FeeManagement\SchoolFee\SchoolFee\obj\Debug\SchoolFee.dll
 D:\WebSites\Github\FeeManagement\SchoolFee\SchoolFee\obj\Debug\SchoolFee.pdb
